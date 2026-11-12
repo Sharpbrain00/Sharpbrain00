@@ -9,13 +9,13 @@ programming, artificial intelligence, and solving real-world problems.
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Student
-- 💻 Aspiring Software Developer
-- 📊 Interested in Data Analytics
-- 🤖 Exploring Artificial Intelligence and Machine Learning
-- 🐍 Learning Python
-- 🌐 Interested in Web Development
-- 🚀 Building projects and improving my technical skills.
+🎓 Computer Science Student
+📊 Aspiring Junior Data Analyst
+📗 Learning Microsoft Excel
+🐍 Learning Python
+📈 Exploring Data Visualization
+🧹 Practising Data Cleaning
+🤖 Interested in Artificial Intelligence and Machine Learning
 
 ## 🛠️ Skills & Technologies
 
