@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Najib Abdullahi 👋
 
-<!--
-**Sharpbrain00/Sharpbrain00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student passionate about technology,
+programming, artificial intelligence, and solving real-world problems.
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Science Student
+- 💻 Aspiring Software Developer
+- 📊 Interested in Data Analytics
+- 🤖 Exploring Artificial Intelligence and Machine Learning
+- 🐍 Learning Python
+- 🌐 Interested in Web Development
+- 🚀 Building projects and improving my technical skills.
+
+## 🛠️ Skills & Technologies
+
+- Python
+- Jupyter Notebook
+- Data Analytics
+- Machine Learning
+- HTML & CSS
+- Git & GitHub
+
+## 📂 My Projects
+
+- First-repo
+- Web-project-
+
+## 🎯 My Goals
+
+- Become a professional Software Developer.
+- Improve my programming skills.
+- Build innovative technology solutions.
+- Contribute to open-source projects.
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/Sharpbrain00
+
+---
+
+⭐ Thanks for visiting my profile!
